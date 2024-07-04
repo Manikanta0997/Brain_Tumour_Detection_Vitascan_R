@@ -5,3 +5,4 @@ scikit-image
 opencv-python
 Werkzeug
 Flask
+gunicorn
