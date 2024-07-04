@@ -1,6 +1,6 @@
-streamlit==1.16.0
-numpy==1.23.0
-tensorflow==2.10.0
-scikit-image==0.19.2
-opencv-python==4.6.0.66
-Werkzeug==2.2.3
+streamlit
+numpy
+tensorflow
+scikit-image
+opencv-python
+Werkzeug
