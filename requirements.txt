@@ -1,6 +1,6 @@
 opencv-python
 Werkzeug
-numpy
+numpy==1.21.5
 pandas
 scikit_learn
 streamlit
